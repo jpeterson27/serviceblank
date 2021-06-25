@@ -1,0 +1,56 @@
+
+<script type="application/ld+json">
+{
+"@context": "https://schema.org",
+"@type": "Service",
+"serviceType": "",
+"areaServed": 
+{
+"@type": "Country",
+"name": "USA",
+"@id": "https://en.wikipedia.org/wiki/United_States"
+},
+"@id": "https://en.wikipedia.org/wiki/United_States"
+},
+"audience": "https://www.wikidata.org/wiki/Q22855",
+"provider": {
+"@type": "Organization",
+"name": "Atiba Software, LLC",
+"@id":"https://g.page/atibasoftware",
+"additionalType":
+["","",""],
+"disambiguatingdescription":"",
+"mainEntityOfPage":"https://www.google.com/maps/place/Atiba+Software+LLC/@36.1645278,-86.7987206,17z/data=!3m1!4b1!4m5!3m4!1s0x886466936c5ddd79:0xa2c69f0dbf1a14fc!8m2!3d36.1643912!4d-86.7964453"
+},
+"availableChannel": {
+"@type": "ServiceChannel",
+"serviceUrl": "",
+"servicePhone": {
+"@type": "ContactPoint",
+"telephone": "+1 615-353-1921",
+"name": "Atiba Phone number",
+"description": "Atiba phone number contact",
+"contactType": "appointments",
+"@id": "https://www.atiba.com/get-quote/",
+"availableLanguage": "https://en.wikipedia.org/wiki/English_language"
+},
+"serviceLocation": "https://www.google.com/maps/place/Atiba+Software+LLC/@36.1645278,-86.7987206,17z/data=!3m1!4b1!4m5!3m4!1s0x886466936c5ddd79:0xa2c69f0dbf1a14fc!8m2!3d36.1643912!4d-86.7964453",
+"name": "Atiba Software, LLC Office",
+"description": "Contact Atiba by phone, email, or our website",
+"@id": "https://www.google.com/maps/place/Atiba+Software+LLC/@36.1645278,-86.7987206,17z/data=!3m1!4b1!4m5!3m4!1s0x886466936c5ddd79:0xa2c69f0dbf1a14fc!8m2!3d36.1643912!4d-86.7964453"
+},
+"description": "",
+"image": [
+"",
+{
+"@type": "ImageObject",
+"width": "",
+"url": "",
+"height": "",
+"@id": ""
+}
+],
+"url": "",
+"@id": ""
+}
+</script>
